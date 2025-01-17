@@ -1,3 +1,5 @@
+REDIS MUST BE INSTALLED OTHER .dll INJECTION CRASH!
+
 # ac
 
 open source anti cheat (lol) which I made for fun.
